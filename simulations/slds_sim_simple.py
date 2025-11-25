@@ -1,12 +1,3 @@
-
-"""Minimal SLDS simulator + helper for CEL vs DEL examples.
-
-This is a cleaned-up version of your earlier SLDS experiment script, intended
-for easy reuse and example notebooks. It exposes:
-
-- SwitchingVARSim : K-state VAR(1) simulator
-- simulate_slds_example : helper that returns (sim, X, g_true)
-"""
 import numpy as np
 
 class SwitchingVARSim:

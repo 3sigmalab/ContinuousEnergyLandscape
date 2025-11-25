@@ -1,12 +1,3 @@
-
-"""Minimal Kuramoto-based simulator + helper for CEL vs DEL examples.
-
-This is a trimmed version of your earlier Kuramoto experiment script.
-It exposes:
-
-- KuramotoBalloonSim : K-state Kuramoto + hemodynamic model
-- simulate_kuramoto_example : helper that returns (sim, X_bold, g_true)
-"""
 import numpy as np
 from scipy.signal import hilbert
 
