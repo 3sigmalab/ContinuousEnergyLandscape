@@ -1,4 +1,4 @@
-# Continuous Energy Landscapes for Brain State Transitions (CEL)
+# Continuous Energy Landscape (CEL) Model for Analyzing Brain State Transitions
 
 We propose a **Continuous Energy Landscape (CEL)** model for analyzing brain state transitions, which replaces discrete Ising-style energy landscapes with a **continuous quadratic energy** over multivariate neural activity. The energy landscape is parameterized by a **graph neural network (GNN)** that learns a positive-definite precision matrix from functional connectivity, allowing us to capture smooth, high-dimensional state transitions without binarizing the data.
 
@@ -25,7 +25,7 @@ The full pipeline of the proposed method, including graph construction, GCN-base
 If you use this code, please cite the following paper:
 
 ```text
-Triet M Tran, Sina Khanmohammadi. "Continuous Energy Landscape Model for Analyzing Brain State Transitions."
+Triet M. Tran, Seyed Majid Razavi, Dee H. Wu, and Sina Khanmohammadi. "Continuous Energy Landscape Model for Analyzing Brain State Transitions."
 [Journal / arXiv], [Year].
 ```
 
@@ -337,5 +337,3 @@ ContinuousEnergyLandscape/
 2. Ezaki, T., Watanabe, T., Ohzeki, M., & Masuda, N.
    *Energy landscape analysis of neuroimaging data.*  
    Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 375(2096), 20160287.
-
-3. [CEL paper citation here]
