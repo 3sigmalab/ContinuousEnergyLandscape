@@ -25,9 +25,9 @@ The full pipeline of the proposed method, including graph construction, GCN-base
 If you use this code, please cite the following paper:
 
 ```text
-Triet M. Tran, Seyed Majid Razavi, Dee H. Wu, and Sina Khanmohammadi. "Continuous Energy Landscape Model for Analyzing Brain State Transitions."
-[Journal / arXiv], [Year].
+Triet M. Tran, Seyed Majid Razavi, Dee H. Wu, and Sina Khanmohammadi. "Continuous Energy Landscape Model for Analyzing Brain State Transitions." arXiv:2601.06991 (2026)
 ```
+arXiv Link [https://doi.org/10.48550/arXiv.2601.06991](https://arxiv.org/abs/2601.06991).
 
 ---
 
