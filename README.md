@@ -34,9 +34,9 @@ If you use this code, please cite the following paper:
 
 1. <strong>Triet M Tran:</strong>   </a> <a href="https://scholar.google.com/citations?user=T-W28vYAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue">
-2. <strong>Seyed Majid Razavi:</strong>   </a> <a href="https://scholar.google.com/citations?user=T-W28vYAAAAJ&hl=en" target="_blank">
+2. <strong>Seyed Majid Razavi:</strong>   </a> <a href="https://scholar.google.com/citations?hl=en&user=WY7aJqgAAAAJ" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue">
-3. <strong>Dee H. Wu:</strong>   </a> <a href="https://scholar.google.com/citations?user=T-W28vYAAAAJ&hl=en" target="_blank">
+3. <strong>Dee H. Wu:</strong>   </a> <a href="https://scholar.google.com/citations?user=Gh-5IKYAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue">
 4. <strong>Sina Khanmohammadi:</strong>  </a> <a href="https://scholar.google.co.uk/citations?hl=en&user=K6sMFj4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-Link-lightblue">
